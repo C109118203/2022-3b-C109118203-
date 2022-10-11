@@ -1,6 +1,7 @@
 ### PERT/CPM圖
 ---
-![PERT CPM圖](https://user-images.githubusercontent.com/113971516/194863299-3f8696a4-f3ab-415b-a5bb-0c329ece0290.jpg)
+![PERT](https://user-images.githubusercontent.com/113971516/195134863-49a88336-16eb-4df5-87a8-4bcebd4045d9.jpg)
+
 
 ### 甘特圖
 ---
